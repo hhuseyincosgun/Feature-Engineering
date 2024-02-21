@@ -14,6 +14,16 @@
 
 **7. End - to - End Application (Uçtan Uca Uygulama)**
 
+### Medium Articles
+
+[Which data scaling technique should I use ?](https://medium.com/@hhuseyincosgun/which-data-scaling-technique-should-i-use-a1615292061e)
+
+![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/6d707328-ab34-42b3-bcee-8e99675dafd0)
+
+[Özellik Mühendisliği: Encoding İşlemleri](https://medium.com/@hhuseyincosgun/%C3%B6zellik-m%C3%BChendisli%C4%9Fi-encoding-i%CC%87%C5%9Flemleri-8918f97bc8d8)
+
+![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/29345f2c-f48e-4cd0-8fea-af4e9402c120)
+
 
 Feature engineering is a crucial step in the data analysis process, as it involves transforming raw data into a format that is more suitable for machine learning models. The importance of feature engineering lies in its ability to enhance model performance and extract meaningful patterns from the data. Here are some key reasons why feature engineering is important:
 
