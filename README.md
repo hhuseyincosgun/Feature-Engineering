@@ -1,30 +1,5 @@
 # Feature-Engineering
 
-**1. Outliers (Aykırı Değerler)**
-
-**2. Missing Values (Eksik Değerler)**
-
-**3. Encoding**
-
-**4. Feature Scaling (Özellik Ölçeklendirme)**
-
-**5. Feature Extraction (Özellik Çıkarımı)**
-
-**6. Feature Interactions (Özellik Etkileşimleri)**
-
-**7. End - to - End Application (Uçtan Uca Uygulama)**
-
-### Medium Articles
-
-[Which data scaling technique should I use ?](https://medium.com/@hhuseyincosgun/which-data-scaling-technique-should-i-use-a1615292061e)
-
-![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/6d707328-ab34-42b3-bcee-8e99675dafd0)
-
-[Özellik Mühendisliği: Encoding İşlemleri](https://medium.com/@hhuseyincosgun/%C3%B6zellik-m%C3%BChendisli%C4%9Fi-encoding-i%CC%87%C5%9Flemleri-8918f97bc8d8)
-
-![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/29345f2c-f48e-4cd0-8fea-af4e9402c120)
-
-
 Feature engineering is a crucial step in th data analysis process, as it involves transforming raw data into a format that is more suitable for machine learning models. The importance of feature engineering lies in its ability to enhance model performance and extract meaningful patterns from the data. Here are some key reasons why feature engineering is important:
 
 1.  **Improved Model Performance:** Well-engineered features can significantly enhance the performance of machine learning models. By selecting, transforming, or creating features that are more relevant to the problem at hand, you can provide the model with better information, allowing it to make more accurate predictions.
@@ -45,3 +20,30 @@ Feature engineering is a crucial step in th data analysis process, as it involve
     
 
 In summary, feature engineering is a crucial step in the data analysis process because it enables you to extract relevant information from raw data, enhance model performance, and ensure that machine learning models are better equipped to understand and make predictions on the underlying patterns in the data.
+
+
+*1. Outliers*
+
+*2. Missing Values*
+
+*3. Encoding*
+
+*4. Feature Scaling*
+
+*5. Feature Extraction*
+
+*6. Feature Interactions*
+
+*7. End - to - End Application*
+
+### Medium Articles
+
+[Which data scaling technique should I use ?](https://medium.com/@hhuseyincosgun/which-data-scaling-technique-should-i-use-a1615292061e)
+
+![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/6d707328-ab34-42b3-bcee-8e99675dafd0)
+
+[Özellik Mühendisliği: Encoding İşlemleri](https://medium.com/@hhuseyincosgun/%C3%B6zellik-m%C3%BChendisli%C4%9Fi-encoding-i%CC%87%C5%9Flemleri-8918f97bc8d8)
+
+![image](https://github.com/hhuseyincosgun/Feature-Engineering/assets/21257660/29345f2c-f48e-4cd0-8fea-af4e9402c120)
+
+
