@@ -4,7 +4,7 @@ Feature engineering is a crucial step in th data analysis process, as it involve
 
 1.  **Improved Model Performance:** Well-engineered features can significantly enhance the performance of machine learning models. By selecting, transforming, or creating features that are more relevant to the problem at hand, you can provide the model with better information, allowing it to make more accurate predictions.
     
-2.  **Handling Non-Linearity:** Many real-world relationships between variables are non-linear. Feature engineering allows you to capture these non-linearities by creating new features or transforming existing ones. This helps models to better capture complex patterns in the data.
+2.  **Handling Non-Linearity:** Many real-world relationships between variables are non-linear. Feature engineering allows you to capture these non-linearities by creating new features or transforming existing ones.
     
 3.  **Dimensionality Reduction:** Feature engineering can involve reducing the dimensionality of the dataset by selecting or creating a subset of features that are most informative. This not only speeds up the training process but also helps prevent overfitting and makes the model more interpretable.
     
